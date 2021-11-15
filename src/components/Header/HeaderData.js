@@ -1,0 +1,17 @@
+export default [
+  {
+    id: '1',
+    name: 'Home',
+    url: '/',
+  },
+  {
+    id: '2',
+    name: 'Products',
+    url: '/products',
+  },
+  {
+    id: '3',
+    name: 'About',
+    url: '/about',
+  },
+];
